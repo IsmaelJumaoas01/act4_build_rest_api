@@ -1,0 +1,37 @@
+{
+  "26e3fc01-f362-4b52-94ea-c419924235b7": {
+    "id": "26e3fc01-f362-4b52-94ea-c419924235b7",
+    "name": "wrist-watch",
+    "price": 500,
+    "quantity": 50,
+    "image": "image_url.png"
+  },
+  "f1bcbc31-d0d5-4f83-8395-6f84d25cca06": {
+    "id": "f1bcbc31-d0d5-4f83-8395-6f84d25cca06",
+    "name": "wrist-watch",
+    "price": 500,
+    "quantity": 50,
+    "image": "image_url.png"
+  },
+  "24e5ff70-c714-4618-9473-71fca6c22350": {
+    "id": "24e5ff70-c714-4618-9473-71fca6c22350",
+    "name": "wrist-watch",
+    "price": 500,
+    "quantity": 50,
+    "image": "image_url.png"
+  },
+  "8439fd9f-50eb-439c-a6d5-d5771b3917a5": {
+    "id": "8439fd9f-50eb-439c-a6d5-d5771b3917a5",
+    "name": "wrist-watch",
+    "price": 500,
+    "quantity": 50,
+    "image": "image_url.png"
+  },
+  "a0a45c83-a273-41d0-8480-00c88cbf42fe": {
+    "id": "a0a45c83-a273-41d0-8480-00c88cbf42fe",
+    "name": "wrist-watch",
+    "price": 500,
+    "quantity": 50,
+    "image": "image_url.png"
+  }
+}

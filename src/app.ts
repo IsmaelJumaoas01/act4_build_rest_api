@@ -3,6 +3,7 @@ import * as dotevnv from "dotenv"
 import cors from "cors"
 import helmet from "helmet"
 import { userRouter } from "./users/users.route";
+import { productRouter } from "./products/products.route";
 
 
 dotevnv.config()
@@ -21,6 +22,7 @@ app.use(cors())
 app.use(helmet())
 
 app.use('/', userRouter)
+app.use('/', productRouter)
 
 app.listen(PORT, () => {
     console.log(`Server is listening on port ${PORT}`)
